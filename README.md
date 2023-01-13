@@ -18,8 +18,11 @@ Projects:
 
 "Course Skills:
 -Create, design, and manage relational databases and apply database administration (DBA) concepts to RDBMSes such as MySQL, PostgreSQL, and IBM Db2. 
+
 -Develop and execute SQL queries using SELECT, INSERT, UPDATE, DELETE statements, database functions,  stored procedures, Nested Queries, and JOINs. 
+
 -Demonstrate working knowledge of NoSQL & Big Data using MongoDB, Cassandra, Cloudant, Hadoop, Apache Spark, Spark SQL, Spark ML, Spark Streaming. 
+
 -Implement ETL & Data Pipelines with Bash, Airflow & Kafka; architect, populate, deploy Data Warehouses; create BI reports & interactive dashboards."
 
 Course descriptions and skills information source: https://www.coursera.org/professional-certificates/ibm-data-engineer
