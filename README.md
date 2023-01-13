@@ -17,6 +17,7 @@ Projects:
 
 
 "Course Skills:
+
 -Create, design, and manage relational databases and apply database administration (DBA) concepts to RDBMSes such as MySQL, PostgreSQL, and IBM Db2. 
 
 -Develop and execute SQL queries using SELECT, INSERT, UPDATE, DELETE statements, database functions,  stored procedures, Nested Queries, and JOINs. 
