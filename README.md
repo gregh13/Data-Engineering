@@ -1,7 +1,8 @@
-# IBM Data Engineering Profession Certificate Specialization
+# IBM Data Engineering Specialization
 
 Coursera Course Description:
-Throughout this Professional Certificate, you will complete hands-on labs and projects to help you gain practical experience with Python, SQL, relational databases, NoSQL databases, Apache Spark, building data pipelines, managing databases, and working with data warehouses.
+
+"Throughout this Professional Certificate, you will complete hands-on labs and projects to help you gain practical experience with Python, SQL, relational databases, NoSQL databases, Apache Spark, building data pipelines, managing databases, and working with data warehouses.
 Projects:
 
 -Design a relational database to help a coffee franchise improve operations
@@ -20,4 +21,4 @@ Projects:
 
 -Train a machine learning model by creating an Apache Spark application.
 
--Design, deploy, and manage an end-to-end data engineering platform.
+-Design, deploy, and manage an end-to-end data engineering platform."
